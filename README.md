@@ -1,11 +1,11 @@
 # 안녕하세요! 👋 
- 
-Unity, C#, Firebase를 활용한 디지털 트윈 및 자동화 시스템 개발에 깊은 관심을 가지고 있는 **신입 개발자 [이창현]** 입니다.
+
+Unity, C#, Firebase를 활용한 디지털 트윈 및 자동화 시스템 개발에 깊은 관심을 가지고 있는 **신입 개발자 이창현** 입니다.
 실제 산업 환경의 문제를 기술로 해결하는 것에 큰 흥미를 느끼며, **이론적 지식을 바탕으로 실제 프로젝트를 구현하며 성장하고 있습니다.** 특히 PLC 연동,
 3D 시각화, 실시간 데이터 처리 분야에 **기초를 다지고 있으며, 끊임없이 배우고 도전하는 것을 즐깁니다.**
- 
+
 ---
- 
+
 ### 🚀 기술 스택 (Tech Stack)
 
 | 구분 | 기술 |
@@ -15,9 +15,9 @@ Unity, C#, Firebase를 활용한 디지털 트윈 및 자동화 시스템 개발
 | **자동화 & 통신** | `GX Works2`, `MX Component`, `TCP/IP`, `MQTT` |
 | **버전 관리** | `Git`, `Git LFS` |
 | **3D 모델링 파이프라인** | `CATIA`, `FreeCAD`, `Blender` |
-
+ 
 ---
-
+ 
 ### ✨ 주요 프로젝트 (Featured Projects)
 
 #### 🚗 자동차 용접 공정 디지털 트윈 (Automotive Welding Digital Twin)
@@ -41,18 +41,16 @@ Unity, C#, Firebase를 활용한 디지털 트윈 및 자동화 시스템 개발
 *   산업용 IoT 및 스마트 팩토리 솔루션 개발
 *   실시간 렌더링 최적화 및 고성능 애플리케이션 구현
 *   클라우드 기반 백엔드 시스템 구축 및 확장성 있는 아키텍처 설계
-*   새로운 기술 스택 (예: [관심 있는 다른 기술]) 학습 및 적용
+*   새로운 기술 스택 (예: **클라우드 기반 IoT 플랫폼 (AWS IoT/Azure IoT), 산업용 데이터 분석 및 머신러닝**) 학습 및 적용
 
 ---
 
 ### 🤝 저와 연결하기 (Connect with Me)
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:**[ckdgus48@gmail.com]**)
-<!--
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ckdgus48@gmail.com)
 [![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)]([https://blog.naver.com/khy88000])
--->
 
----
+ ---
 
 ### 📊 GitHub 통계 (GitHub Stats)
 

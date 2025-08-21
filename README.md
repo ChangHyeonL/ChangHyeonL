@@ -48,7 +48,7 @@ Unity, C#, Firebase를 활용한 디지털 트윈 및 자동화 시스템 개발
 ### 🤝 저와 연결하기 (Connect with Me)
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ckdgus48@gmail.com)
-[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)]([https://blog.naver.com/khy88000])
+[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)]([mailto:https://blog.naver.com/khy88000])
 
  ---
 

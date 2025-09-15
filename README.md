@@ -28,7 +28,7 @@
     -   **비동기 클라이언트 구현**: `멀티스레딩`으로 Unity의 블로킹 문제를 해결하고 안정적인 네트워크 처리
     -   **실시간 렌더링 최적화**: `LOD` 기법으로 렌더링 성능을 3배 이상 향상 (50~60 FPS 달성)
 -   **데모 영상**: [https://youtu.be/bC1eN28QZPw](https://youtu.be/bC1eN28QZPw) (클릭하여 시청)
--   **프로젝트 저장소**: [https://github.com/ChangHyeonL/Automotive_Welding_Digital-twin](https://github.com/ChangHyeonL/Automotive_Welding_Digital-twin.git) (더 자세한 내용은 여기서 확인하세요!)
+-   **프로젝트 저장소**: [https://github.com/ChangHyeonL/Project_Automotive_Welding_Digital-twin](https://github.com/ChangHyeonL/Project_Automotive_Welding_Digital-twin.git) (더 자세한 내용은 여기서 확인하세요!)
 
 ---
 
